@@ -14,4 +14,4 @@ The MIC Equation Derivation (M \cdot I = C)
 ​To achieve operational stability, the synthesis must align with the established physics:
 ​Mass (M): The total density of the Nickel/Palladium lattice and the hydrogen isotope loading ratio.
 ​Intensity (I): The magnitude of the electromagnetic pulse or thermal input required to trigger the lattice vibration.
-​Constant (C): The resulting sustainable thermal output (the "Command"), which remains stable as long as the Individual Singularity is maintained.
+​Constant (C): The resulting sustainable thermal output (the stabilized, self-sustaining exothermic energy output of the reactor"), which remains stable as long as the localized point of coherent nuclear excitation within the metal lattice, (the specific coordinate where the Integrated Environmental Matrix collapses into a singular, high-density energy event) is maintained 
